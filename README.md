@@ -1,9 +1,10 @@
-# Sinerio - Developpement
-**Code source public (ou privé)** de Sinerio. 
-**Site:** https://sinerio.net
-**Discord:** https://discord.gg/sinerio
+# Molorio - Developpement
+**Code source public (ou privé)** de Molorio. 
+**Site:** https://molorio.net
+**Discord:** https://discord.gg/hfy2HXkadx
 
-(C) Sinerio - 2024
+(C) Molorio - 2024 (bientôt 2025)
+
 
 
 
